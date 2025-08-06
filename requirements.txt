@@ -1,0 +1,12 @@
+Flask
+flask_sqlalchemy
+bcrypt
+pyotp
+face_recognition
+opencv-python
+twilio
+Flask
+face_recognition
+opencv-python
+bcrypt
+pyotp
